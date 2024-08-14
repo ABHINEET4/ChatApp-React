@@ -1,4 +1,4 @@
-# ChatApp-React-Coding-Ninjas
+# ChatApp-React
 
 Hosted Website Link : - https://chatappreactproject.netlify.app/#/
 
